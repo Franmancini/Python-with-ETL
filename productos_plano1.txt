@@ -1,0 +1,5 @@
+nombre,edad,peso,altura
+Juan,23,70,1.84
+Carla,28,56,1.65
+Judith,25,84,1.78
+Italo,44,87,1.73
